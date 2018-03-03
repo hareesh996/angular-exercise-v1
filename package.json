@@ -1,0 +1,22 @@
+{
+  "name": "angular-exercise-v1",
+  "version": "1.0.0",
+  "description": "Exercise to learn the angular module 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareesh996/angular-exercise-v1.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Hareesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareesh996/angular-exercise-v1/issues"
+  },
+  "homepage": "https://github.com/hareesh996/angular-exercise-v1#readme"
+}
